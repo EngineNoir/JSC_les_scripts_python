@@ -21,7 +21,7 @@ print(f"element 0: {a[0]}")
 print(f"laatste element: {a[-1]}") 
 # indexen met negatieve waardes levert elementen op vanaf de andere kant (in python!)
 
-# een waarde kan toegevoegd worden aan een array met de .appen() method
+# een waarde kan toegevoegd worden aan een array met de .append() method
 a.append(13)
 
 print(f"array na .append: {a}")
